@@ -1,0 +1,6 @@
+body{margin: 0; padding:0; line-height: 1.5em; text-align: center;}
+h1{font-size: 48px; font-weight: bold; }
+.main{width: 100%;}
+.desc{font-size: 20px; }
+.pic-xiumu{ margin: 0 20px; border: 1px solid #ccc;}
+.pic-xiumu img{width: 100%;}
