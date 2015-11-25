@@ -16,6 +16,7 @@ npm install -g fis3
 ## 版本控制
 
 完成两件事情：
+
 1. 从源码目录同步到发布目录
 2. 版本控制
 
@@ -34,4 +35,6 @@ fis.match('*.{js,css,png}', {
 fis3 release -d ../output
 ```
 
+## 其他
 
+有其他需求时再补充。。。
