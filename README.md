@@ -15,7 +15,7 @@ npm install -g fis3
 
 ## 版本控制
 
-完成两件事情：（demo代码在这里下载 https://github.com/chyingp/fis-startup-for-xiaowei）
+完成两件事情：
 1. 从源码目录同步到发布目录
 2. 版本控制
 
